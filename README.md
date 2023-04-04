@@ -18,5 +18,5 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevvalatalay&layout=compact)](https://github.com/sevvalatalay/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevvalatalay&layout=compact)
 
