@@ -14,3 +14,9 @@
 <a href="https://instagram.com/sevvalatalay7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sevvalatalay7" height="30" width="40" /></a>
 
 </p>
+
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevvalatalay&layout=compact)](https://github.com/sevvalatalay/github-readme-stats)
+
