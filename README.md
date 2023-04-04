@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋, I'm Şevval
+## an electrical and electronics engineering student
 
 
 - 🌱 I’m currently learning HTML/CSS
