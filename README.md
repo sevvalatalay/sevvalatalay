@@ -1,5 +1,5 @@
-### Hi 👋, I'm Şevval
-#### an electrical and electronics engineering student
+<h1>Hi 👋, I'm Şevval</h1>
+<h3> an electrical and electronics engineering student </h2>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=sevvalatalay&label=Profile%20views&color=red&style=flat-square"
     alt="sevvalatalay"/> 
