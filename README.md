@@ -24,10 +24,10 @@
 <br>
 <br>
 <div align="center">
-  <span> <img height="50%" width="60%" src ="https://github-readme-stats-sigma-five.vercel.app/api?username=sevvalatalay&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"> </span>
-  <span> <img height="50%" width="40%" src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sevvalatalay&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6"> </span>
+  <span> <img height="50%" width="50%" src ="https://github-readme-stats-sigma-five.vercel.app/api?username=sevvalatalay&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"> </span>
+  <span> <img height="50%" width="49%" src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sevvalatalay&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6"> </span>
   
-
+<br>
   
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=sevvalatalay&theme=darcula&hide_border=true&background=FFFFFF00">
 </div>
